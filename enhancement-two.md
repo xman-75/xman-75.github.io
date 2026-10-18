@@ -13,6 +13,8 @@ Code: [Original code](https://github.com/xman-75/xman-75.github.io/tree/main/Enh
 
 Only the two files I changed are included here, AppointmentService and AppointmentServiceTest. The rest of the CS 320 suite was left as it was, and the full test suite passes with the enhancement in place.
 
+Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement2/narrative)
+
 ## About the Artifact
 
 The artifact I am enhancing for this category is the Contact, Task, and Appointment service suite I originally built in CS 320 in October 2025. Each domain object has its own service class that stores instances in memory and validates input at construction. I focused on AppointmentService specifically, since its date field made it the natural place to demonstrate a real data structure decision.
