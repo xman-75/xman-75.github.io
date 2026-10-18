@@ -11,7 +11,7 @@ Artifact: Travlr Getaways database layer (CS 465)
 
 Code: [Original code](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement3/original_code) | [Enhanced code](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement3/new_code)
 
-Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement3/narrative)
+Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement3/narrative) |
 
 ## About the Artifact
 
