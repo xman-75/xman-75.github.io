@@ -11,6 +11,8 @@ Artifact: Travlr Getaways database layer (CS 465)
 
 Code: [Original code](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement3/original_code) | [Enhanced code](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement3/new_code)
 
+Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement3/narrative)
+
 ## About the Artifact
 
 Travlr Getaways is a MEAN stack travel booking application I built in CS 465 in June 2026. It includes a customer-facing site, an Angular admin application, and an Express API backed by MongoDB. For this milestone I enhanced the database layer, which consists of the connection file (db.js), the trip schema (travlr.js), and the trips controller (trips.js).
@@ -21,7 +23,7 @@ I selected this artifact because the original database layer worked but trusted 
 
 ## Course Outcomes
 
-These changes support two of the course outcomes I planned in Module One. The work develops a security mindset that anticipates adversarial exploits in software architecture and designs, mitigates design flaws, and ensures privacy and enhanced security of data and resources, through input sanitization, least-privilege database access, and keeping secrets out of the codebase. It also demonstrates well-founded techniques, skills, and tools in computing practices that deliver value, since schema constraints protect data integrity and pagination keeps response size and memory use stable as the collection grows. The headers and comments added to each file contribute to the professional communication outcome as well. My outcome plan did not change from Module One.
+These changes support two of the course outcomes I planned at the beginning of my Computer Science Capstone class. The work develops a security mindset that anticipates adversarial exploits in software architecture and designs, mitigates design flaws, and ensures privacy and enhanced security of data and resources, through input sanitization, least-privilege database access, and keeping secrets out of the codebase. It also demonstrates well-founded techniques, skills, and tools in computing practices that deliver value, since schema constraints protect data integrity and pagination keeps response size and memory use stable as the collection grows. The headers and comments added to each file contribute to the professional communication outcome as well.
 
 ## Reflection
 
