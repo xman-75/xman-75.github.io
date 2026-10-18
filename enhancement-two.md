@@ -13,7 +13,7 @@ Code: [Original code](https://github.com/xman-75/xman-75.github.io/tree/main/Enh
 
 Only the two files I changed are included here, AppointmentService and AppointmentServiceTest. The rest of the CS 320 suite was left as it was, and the full test suite passes with the enhancement in place.
 
-Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement2/narrative)
+Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement2/narrative) |
 
 ## About the Artifact
 
