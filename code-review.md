@@ -9,7 +9,7 @@ title: Code Review
 
 This code review is the starting point for the three enhancements in this portfolio. It is aimed at a peer or manager, and it walks through each artifact in three parts: how the existing code works, what the analysis found, and how I planned to enhance it. It covers Travlr Getaways for the software engineering and database categories, and the CS 320 Appointment service for the algorithms category.
 
-[Watch the code review video](https://youtu.be/GNQs2KzJD0c)
+[Watch the code review video](https://youtu.be/GNQs2KzJD0c) |
 
 ## What the Review Covers
 
