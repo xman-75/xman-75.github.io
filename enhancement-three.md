@@ -13,7 +13,7 @@ Code: [Original code](https://github.com/xman-75/xman-75.github.io/tree/main/Enh
 
 ## About the Artifact
 
-Travlr Getaways is a MEAN stack travel booking application I built in CS 465. It includes a customer-facing site, an Angular admin application, and an Express API backed by MongoDB. For this milestone I enhanced the database layer, which consists of the connection file (db.js), the trip schema (travlr.js), and the trips controller (trips.js).
+Travlr Getaways is a MEAN stack travel booking application I built in CS 465 in June 2026. It includes a customer-facing site, an Angular admin application, and an Express API backed by MongoDB. For this milestone I enhanced the database layer, which consists of the connection file (db.js), the trip schema (travlr.js), and the trips controller (trips.js).
 
 ## Why I Included It and What I Changed
 
