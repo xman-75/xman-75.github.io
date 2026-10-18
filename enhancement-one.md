@@ -11,7 +11,7 @@ Artifact: Travlr Getaways API (CS 465)
 
 Code: [Original code](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement1/original_code) | [Enhanced code](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement1/new_code)
 
-Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement1/narrative)
+Narrative: [Word version](https://github.com/xman-75/xman-75.github.io/tree/main/Enhancement1/narrative) |
 
 ## About the Artifact
 
