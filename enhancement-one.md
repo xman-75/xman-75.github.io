@@ -13,7 +13,7 @@ Code: [Original code](https://github.com/xman-75/xman-75.github.io/tree/main/Enh
 
 ## About the Artifact
 
-The artifact I'm enhancing is the API layer of Travlr Getaways, a trip booking application I built across multiple milestones in CS 465. It's a Node.js and Express backend using Mongoose to talk to MongoDB, with routes for logging in, registering, and listing, adding, updating, and now deleting trips. I originally built it as part of a MEAN stack course project, and the version I'm enhancing here reflects the state it was in when I selected it for this capstone.
+The artifact I'm enhancing is the API layer of Travlr Getaways, a trip booking application I built across multiple milestones in CS 465 in June 2026 . It's a Node.js and Express backend using Mongoose to talk to MongoDB, with routes for logging in, registering, and listing, adding, updating, and now deleting trips. I originally built it as part of a MEAN stack course project, and the version I'm enhancing here reflects the state it was in when I selected it for this capstone.
 
 ## Why I Included It and What I Changed
 
