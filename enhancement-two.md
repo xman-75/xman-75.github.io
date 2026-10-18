@@ -15,7 +15,7 @@ Only the two files I changed are included here, AppointmentService and Appointme
 
 ## About the Artifact
 
-The artifact I am enhancing for this category is the Contact, Task, and Appointment service suite I originally built in CS 320. Each domain object has its own service class that stores instances in memory and validates input at construction. I focused on AppointmentService specifically, since its date field made it the natural place to demonstrate a real data structure decision.
+The artifact I am enhancing for this category is the Contact, Task, and Appointment service suite I originally built in CS 320 in October 2025. Each domain object has its own service class that stores instances in memory and validates input at construction. I focused on AppointmentService specifically, since its date field made it the natural place to demonstrate a real data structure decision.
 
 Originally, AppointmentService stored every appointment in a single HashMap keyed by ID, giving constant time lookup whenever the caller already knew the exact ID they wanted. That design fell apart the moment I needed to ask a different kind of question, which appointments fall within a given date range, since a HashMap has no concept of order. Answering that meant checking every stored appointment by hand, an operation that scales with the total number of appointments regardless of how few match.
 
