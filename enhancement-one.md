@@ -25,7 +25,7 @@ To address these, I added the missing DELETE route and controller function so th
 
 ## Course Outcomes
 
-This enhancement was planned in Module One to align with the outcome around using well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals, and I believe it met that outcome. Completing CRUD coverage and replacing four broken or missing error paths with one centralized, maintainable handler is a direct improvement to whether the application works the way an API layer is supposed to. I didn't need to update my outcome-coverage plan for this category, since the enhancement stayed within the scope I originally proposed in the code review.
+This enhancement was planned at the beginning of my Computer Science Capstone class to align with the course outcome around using well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals, and I believe it met that outcome. Completing CRUD coverage and replacing four broken or missing error paths with one centralized, maintainable handler is a direct improvement to whether the application works the way an API layer is supposed to.
 
 ## Reflection
 
